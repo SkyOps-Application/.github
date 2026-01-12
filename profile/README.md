@@ -69,8 +69,9 @@ The project prioritizes clarity, usability, and learning impact over operational
 
 ## Disclaimer
 
-SkyOps is an educational simulator and not an operational air traffic control system.  
-It is intended solely for learning, training, and demonstration purposes.
+> [!IMPORTANT]
+> SkyOps is an educational simulator and not an operational air traffic control system.  
+> It is intended solely for learning, training, and demonstration purposes.
 
 ---
 
